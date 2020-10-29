@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="913753df-f177-4ad1-96ed-dd4eabc1cbdc" name="Default Changelist" comment="CS50 Web programming search bar task">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/search.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdvancedSearch.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoogleImageSearch.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoogleSearch.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iWSwEr5VLj5gxr7iPxxVNrFw9f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="913753df-f177-4ad1-96ed-dd4eabc1cbdc" name="Default Changelist" comment="" />
+      <created>1602022093017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602022093017</updated>
+      <workItem from="1602022094467" duration="642000" />
+      <workItem from="1602059447271" duration="2621000" />
+      <workItem from="1602150074668" duration="568000" />
+      <workItem from="1602189977216" duration="2878000" />
+      <workItem from="1602239757297" duration="4571000" />
+      <workItem from="1603007107758" duration="2404000" />
+      <workItem from="1603132161903" duration="599000" />
+      <workItem from="1603182523464" duration="444000" />
+      <workItem from="1603389915335" duration="193000" />
+      <workItem from="1603482244364" duration="3560000" />
+      <workItem from="1603642443057" duration="150000" />
+      <workItem from="1603705376836" duration="203000" />
+      <workItem from="1603910172929" duration="1728000" />
+      <workItem from="1604005221022" duration="374000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="CS50 Web programming search bar task" />
+    <option name="LAST_COMMIT_MESSAGE" value="CS50 Web programming search bar task" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2233" y="124" key="CommitChangelistDialog2" timestamp="1604005610811">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2233" y="124" key="CommitChangelistDialog2/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1604005610811" />
+  </component>
+</project>
