@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="913753df-f177-4ad1-96ed-dd4eabc1cbdc" name="Default Changelist" comment="CS50 Web programming search bar task">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/search.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdvancedSearch.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GoogleImageSearch.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GoogleSearch.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+    <list default="true" id="913753df-f177-4ad1-96ed-dd4eabc1cbdc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoogleSearch.html" beforeDir="false" afterPath="$PROJECT_DIR$/GoogleSearch.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,8 +63,16 @@
       <workItem from="1603642443057" duration="150000" />
       <workItem from="1603705376836" duration="203000" />
       <workItem from="1603910172929" duration="1728000" />
-      <workItem from="1604005221022" duration="374000" />
+      <workItem from="1604005221022" duration="919000" />
     </task>
+    <task id="LOCAL-00001" summary="CS50 Web programming search bar task">
+      <created>1604005631787</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604005631787</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,9 +83,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="CS50 Web programming search bar task" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2233" y="124" key="CommitChangelistDialog2" timestamp="1604005610811">
+    <state x="2233" y="124" key="CommitChangelistDialog2" timestamp="1604005631648">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
-    <state x="2233" y="124" key="CommitChangelistDialog2/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1604005610811" />
+    <state x="2233" y="124" key="CommitChangelistDialog2/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1604005631648" />
+    <state x="2240" y="267" key="Vcs.Push.Dialog.v2" timestamp="1604005783794">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2240" y="267" key="Vcs.Push.Dialog.v2/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1604005783794" />
   </component>
 </project>

@@ -61,7 +61,7 @@ div, #viewport {
 {
     border: 3px solid blue;
     border-radius: 24px;
-    /*display: flex;*/
+    display: flex;
     margin: 0 auto;
     height: 44px;
     max-width: 584px;
@@ -72,7 +72,7 @@ div, #viewport {
 
 .text-field {
     background-color: transparent;
-    border: none;
+    border: 1px solid black;
     margin: 0;
     padding: 0;
     color: rgba(0, 0, 0, .87);
