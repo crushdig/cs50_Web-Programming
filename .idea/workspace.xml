@@ -16,6 +16,7 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -63,7 +64,8 @@
       <workItem from="1603642443057" duration="150000" />
       <workItem from="1603705376836" duration="203000" />
       <workItem from="1603910172929" duration="1728000" />
-      <workItem from="1604005221022" duration="919000" />
+      <workItem from="1604005221022" duration="1375000" />
+      <workItem from="1604088463462" duration="4071000" />
     </task>
     <task id="LOCAL-00001" summary="CS50 Web programming search bar task">
       <created>1604005631787</created>

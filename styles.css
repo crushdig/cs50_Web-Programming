@@ -19,7 +19,7 @@
     margin: 11px 4px;
     padding: 0 16px;
     text-align: center;
-    /*z-index: 0;*/
+    cursor: pointer;
 }
 
 .container {
@@ -33,6 +33,12 @@ div, #viewport {
     width: 100%;
 }
 
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 .nav-bar-links
 {
     float: right;
@@ -44,19 +50,6 @@ div, #viewport {
     padding-left: 30px;
 }
 
-/*.SDkEP {*/
-/*    flex: 1;*/
-/*    display: flex;*/
-/*    padding: 5px 8px 0 16px;*/
-/*    padding-left: 14px;*/
-/*}*/
-
-/*.a4bIc {*/
-/*    display: flex;*/
-/*    flex: 1;*/
-/*    flex-wrap: wrap;*/
-/*}*/
-
 .search-bar
 {
     border: 3px solid blue;
@@ -65,15 +58,13 @@ div, #viewport {
     margin: 0 auto;
     height: 44px;
     max-width: 584px;
-
     width: 50%;
     z-index: 3;
 }
 
 .text-field {
     background-color: transparent;
-    border: 1px solid black;
-    margin: 0;
+    border: none;
     padding: 0;
     color: rgba(0, 0, 0, .87);
     word-wrap: break-word;
@@ -81,12 +72,13 @@ div, #viewport {
     display: flex;
     flex: 100%;
     -webkit-tap-highlight-color: transparent;
-    margin-top: -37px;
+    max-width: 450px;
+    margin: 4px auto;
     height: 34px;
     font-size: 16px;
 }
 
-.search
+.search-container
 {
     position: relative;
     margin: 0 auto;
@@ -94,3 +86,4 @@ div, #viewport {
     text-align: center;
     top: 311px;
 }
+
