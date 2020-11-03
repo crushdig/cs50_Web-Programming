@@ -1,13 +1,29 @@
-
 #viewport
 {
     min-height: 100%;
+}
+
+#advanced-search-banner {
+    background: #f1f1f1;
+    height: 60px;
+    margin-left: 0;
+    margin-right: 0;
+    position: relative;
+    width: 100%
+
+}
+
+.appbar {
+    font-size: 20px;
+    margin: 25px 35px;
+    position: absolute;
 }
 .button-area {
     padding-top: 18px;
     top: 53px;
     /*z-index: 0;*/
 }
+
 .button-features {
     background-image: -webkit-linear-gradient(top,#f5f5f5,#f1f1f1);
     background-color: #f2f2f2;
@@ -27,6 +43,12 @@
     margin: 0 auto;
 }
 
+body {
+    min-height: 100%;
+    position: relative;
+    margin: 0;
+}
+
 div, #viewport {
     position: absolute;
     top: 0;
@@ -39,8 +61,7 @@ form {
     align-items: center;
 }
 
-.nav-bar-links
-{
+.nav-bar-links {
     float: right;
     font-size: 15px;
     position: relative;
@@ -50,7 +71,7 @@ form {
     padding-left: 30px;
 }
 
-.search-bar
+.searchbar
 {
     border: 3px solid blue;
     border-radius: 24px;

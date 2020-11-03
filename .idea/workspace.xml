@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="913753df-f177-4ad1-96ed-dd4eabc1cbdc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdvancedSearch.html" beforeDir="false" afterPath="$PROJECT_DIR$/AdvancedSearch.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoogleImageSearch.html" beforeDir="false" afterPath="$PROJECT_DIR$/GoogleImageSearch.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GoogleSearch.html" beforeDir="false" afterPath="$PROJECT_DIR$/GoogleSearch.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +67,8 @@
       <workItem from="1603705376836" duration="203000" />
       <workItem from="1603910172929" duration="1728000" />
       <workItem from="1604005221022" duration="1375000" />
-      <workItem from="1604088463462" duration="4635000" />
+      <workItem from="1604088463462" duration="5002000" />
+      <workItem from="1604257996999" duration="3645000" />
     </task>
     <task id="LOCAL-00001" summary="CS50 Web programming search bar task">
       <created>1604005631787</created>
