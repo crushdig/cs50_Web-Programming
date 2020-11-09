@@ -1,8 +1,6 @@
 #viewport
 {
     min-height: 100%;
-    /*position: absolute;*/
-    /*width: 100%;*/
 }
 
 #advanced-search-banner {
@@ -65,11 +63,11 @@ body {
     margin: 0;
 }
 
-/*div, #viewport {*/
-/*    position: absolute;*/
-/*    !*top: 0;*!*/
-/*    width: 100%;*/
-/*}*/
+div, #viewport {
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
 
 form {
     display: flex;
@@ -91,18 +89,12 @@ form {
     float: left;
     display: inline-block;
     min-width: 167px;
-    /*width: 16%;*/
+    width: 16%;
     font-size: 16px;
     height: 42px;
     font-weight: 500;
     color: #333;
     vertical-align: middle;
-}
-.span-subcontainer
-{
-    /*height: 30px;*/
-    /*display: table-cell;*/
-    /*vertical-align: middle;*/
 }
 
 .nav-bar-links {
