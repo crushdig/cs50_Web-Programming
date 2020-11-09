@@ -4,8 +4,6 @@
     <list default="true" id="913753df-f177-4ad1-96ed-dd4eabc1cbdc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AdvancedSearch.html" beforeDir="false" afterPath="$PROJECT_DIR$/AdvancedSearch.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoogleImageSearch.html" beforeDir="false" afterPath="$PROJECT_DIR$/GoogleImageSearch.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoogleSearch.html" beforeDir="false" afterPath="$PROJECT_DIR$/GoogleSearch.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +66,11 @@
       <workItem from="1603910172929" duration="1728000" />
       <workItem from="1604005221022" duration="1375000" />
       <workItem from="1604088463462" duration="5002000" />
-      <workItem from="1604257996999" duration="3645000" />
+      <workItem from="1604257996999" duration="3910000" />
+      <workItem from="1604602874157" duration="466000" />
+      <workItem from="1604757079256" duration="128000" />
+      <workItem from="1604846897816" duration="4660000" />
+      <workItem from="1604955164519" duration="3015000" />
     </task>
     <task id="LOCAL-00001" summary="CS50 Web programming search bar task">
       <created>1604005631787</created>
@@ -96,5 +98,9 @@
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
     <state x="2240" y="267" key="Vcs.Push.Dialog.v2/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1604005783794" />
+    <state x="2305" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1604868700740">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2305" y="241" width="670" height="676" key="search.everywhere.popup/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1604868700740" />
   </component>
 </project>

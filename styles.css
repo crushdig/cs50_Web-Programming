@@ -1,6 +1,8 @@
 #viewport
 {
     min-height: 100%;
+    /*position: absolute;*/
+    /*width: 100%;*/
 }
 
 #advanced-search-banner {
@@ -14,10 +16,24 @@
 }
 
 .appbar {
+    color: #d93025;
     font-size: 20px;
     margin: 25px 35px;
-    position: absolute;
+    position: relative;
 }
+
+.app-border
+{
+    border-bottom: 1px solid #ebebeb;
+    position: relative;
+}
+
+.bottom-wrapper
+{
+    min-height: 100%;
+    margin: 0 auto -60px;
+}
+
 .button-area {
     padding-top: 18px;
     top: 53px;
@@ -49,16 +65,44 @@ body {
     margin: 0;
 }
 
-div, #viewport {
-    position: absolute;
-    top: 0;
-    width: 100%;
-}
+/*div, #viewport {*/
+/*    position: absolute;*/
+/*    !*top: 0;*!*/
+/*    width: 100%;*/
+/*}*/
 
 form {
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+
+.form-container
+{
+    max-width: 1140px;
+    min-width: 200px;
+    width: 96%;
+    margin: 40px 2% 0 45px;
+    position: relative;
+}
+
+.span-container
+{
+    float: left;
+    display: inline-block;
+    min-width: 167px;
+    /*width: 16%;*/
+    font-size: 16px;
+    height: 42px;
+    font-weight: 500;
+    color: #333;
+    vertical-align: middle;
+}
+.span-subcontainer
+{
+    /*height: 30px;*/
+    /*display: table-cell;*/
+    /*vertical-align: middle;*/
 }
 
 .nav-bar-links {
